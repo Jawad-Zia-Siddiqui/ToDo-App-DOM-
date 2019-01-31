@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+#heading{
+    background-color: navy;
+    color: #fff;
+    text-align: center;
+    height: 80px;
+    padding: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#input{
+    width: 35%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+#item{
+    width: 50%;
+    height: 25px;
+    
+}
+
+button{
+    color: #fff;
+    background-color: navy;
+    padding: 10px;
+    border-radius: 12%;
+}
